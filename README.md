@@ -117,21 +117,6 @@ Kemudian hot reload (`r` di terminal).
    - Learning path
    - Practice exercises
 
-### Tutorial BAB 1-12
-
-Tutorial asli mencakup:
-- **BAB 1**: Overview Project
-- **BAB 2**: Struktur Folder
-- **BAB 3**: Entry Point (main.dart)
-- **BAB 4**: Struktur UI Utama
-- **BAB 5**: Model Data & State
-- **BAB 6**: Form Input Todo
-- **BAB 7**: Menampilkan Daftar
-- **BAB 8**: Aksi Todo & UX
-- **BAB 9**: Penggunaan Assets
-- **BAB 10**: Konfigurasi Android
-- **BAB 11**: Build APK Debug
-- **BAB 12**: Build APK Release
 
 **Lihat** `DOKUMENTASI_TUTORIAL.md` untuk implementasi lengkap!
 
